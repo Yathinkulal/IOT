@@ -4,5 +4,5 @@
 4.LED dispaly: https://wokwi.com/projects/333806567233159764<br>
 5.Ulter Sonic :https://wokwi.com/projects/334343991242785364<br>
 6.Humidity or Temperature : https://wokwi.com/projects/334346698332570196<br>
-7.motion sensor:https://wokwi.com/projects/334347927737598546
-8.LED Fade   :https://wokwi.com/projects/334431261031400019
+7.PIR   :https://wokwi.com/projects/334347927737598546<br>
+9.LED Fade   :https://wokwi.com/projects/334431261031400019
