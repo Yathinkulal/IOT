@@ -10,3 +10,4 @@
 10.LED Button:https://wokwi.com/projects/334432253950034516<br>
 11.Motian sensor buzzer:https://wokwi.com/projects/334434103991468627<br>
 12.Ulter sonicLED:https://wokwi.com/projects/334436312346002002<br>
+13.Servo Motor:https://wokwi.com/projects/334977733548311124<br>
