@@ -12,3 +12,4 @@
 12.Ulter sonicLED:https://wokwi.com/projects/334436312346002002<br>
 13.Servo Motor:https://wokwi.com/projects/334977733548311124<br>
 14.servo motor controled by servo motor:https://wokwi.com/projects/334980328143716946<br>
+15.Buzzer with Beep sound:https://wokwi.com/projects/335066692974543442<br>
