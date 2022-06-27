@@ -14,3 +14,4 @@
 14.servo motor controled by servo motor:https://wokwi.com/projects/334980328143716946<br>
 15.Buzzer with Beep sound:https://wokwi.com/projects/335066692974543442<br>
 16.Buzzer using pushbutton:https://wokwi.com/projects/335072479400690260<br> 
+17.Buzzer with ultrasonic sensor:https://wokwi.com/projects/335610007029547602<br>
